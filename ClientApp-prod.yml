@@ -1,3 +1,2 @@
 insurance:
-  provider:
-    url: http://localhost:8080/insurance-service/getAllPlans
+  provider: http://localhost:8080/insurance-service/getAllPlans
