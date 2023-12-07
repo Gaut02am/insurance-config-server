@@ -1,2 +1,2 @@
 welcome:
-  message: http://localhost:8080/insurance-service/getAllPlans
+  message: hello world
